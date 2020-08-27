@@ -16,7 +16,7 @@ The items I presented were:
 7. Demonstration 2
 8. Starting the study
 
-This representation is available in the [presentation](https://github.com/MackMendes/Nerdzao-MachineLearning-AnIntroductionForDeveloper/presentation) folder within this repository.
+This representation is available in the [presentation](https://github.com/MackMendes/Nerdzao-MachineLearning-AnIntroductionForDeveloper/blob/master/presentation/Machine%20Learning%20-%20An%20introduction%20for%20Developers.pdf) folder within this repository.
 
 I made two demonstrations to:
 * show the difference in practice between supervised and unsupervised Machine Learning;
@@ -29,14 +29,14 @@ To perform the demonstration, I used the dataset Iris (https://archive.ics.uci.e
 
 ![Context Menu](image/Demo1.PNG)
 
-More details in [Demo1](https://github.com/MackMendes/Nerdzao-MachineLearning-AnIntroductionForDeveloper/Demo1) folder in this repository.
+More details in [Demo1](https://github.com/MackMendes/Nerdzao-MachineLearning-AnIntroductionForDeveloper/tree/master/Demo1) folder in this repository.
 
 ## Demo 2
 In this demo, I show the ONNX technology in action: a statistical model was created in Python and this model will be used in C# to make a prediction of a number drawn:
 
 ![Context Menu](image/Demo2.PNG)
 
-More defails in [Demo2](https://github.com/MackMendes/Nerdzao-MachineLearning-AnIntroductionForDeveloper/Demo2) folder in this repository.
+More defails in [Demo2](https://github.com/MackMendes/Nerdzao-MachineLearning-AnIntroductionForDeveloper/tree/master/Demo2) folder in this repository.
 
 ## Courses
 * [Coursera: Machine Learning, by Andrew Ng](https://www.coursera.org/learn/machine-learning)
