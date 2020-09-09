@@ -1,5 +1,5 @@
 # Demonstration 2
-This demonstration was held in the [Nerdzão Portugal #14 LIVE](https://www.youtube.com/) to show an introduction to Machine Learning. 
+This demonstration was held in the [Nerdzão Portugal #14 LIVE](https://www.youtube.com/watch?v=MXe3SJ83JDo) to show an introduction to Machine Learning. 
 
 ![Context Menu](../image/Demo2.PNG)
 
@@ -41,4 +41,4 @@ Click the "Load Model" button and select the `mnist_cnn.onnx` file created by py
 The model will be loaded. So, just draw and see how much the model will hit.
 
 ### Shortcut
-If you want to run the model without running the code in Python, the template I trained is in the [ModelOfDemo](https://github.com/MackMendes/Nerdzao-MachineLearning-AnIntroductionForDeveloper) folder.
+If you want to run the model without running the code in Python, the template I trained is in the [ModelOfDemo](https://github.com/MackMendes/Nerdzao-MachineLearning-AnIntroductionForDeveloper/tree/master/Demo2/ModelOfDemo) folder.

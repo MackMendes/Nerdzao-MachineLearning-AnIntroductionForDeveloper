@@ -1,0 +1,6 @@
+.vs
+data
+packages
+bin
+obj
+*.pt
