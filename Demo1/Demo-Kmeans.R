@@ -24,3 +24,24 @@ table(datasetIris$Especies, resultado$cluster)
 # Show the result with plot, taking into account the attributes of the petal
 plot(tamanhos_Larguras[c("Sepala.Tamanho", "Sepala.Largura")], col=resultado$cluster)
 points(resultado$centers[,c("Sepala.Tamanho", "Sepala.Largura")], col=1:3, pch="o", cex=3)
+
+# ====
+# Calculte indexes Jaccard and Rand
+
+# Load the clusteval package
+if(!require(clusteval)) install.packages("clusteval")
+library("clusteval")
+
+funcaoConverteResultado <- function(especie){
+   sapply(especie, function(x) if(x == "setosa") 1 else if (x == "versicolor") 2 else 3)
+}
+
+resultadoEsperado <- funcaoConverteResultado(datasetIris$Especies[])
+
+# Calculate Jaccard index
+resultadoJaccard <- cluster_similarity(resultado$cluster, resultadoEsperado, similarity = "jaccard", method = "independence")
+resultadoJaccard
+
+# Calculate Rand index
+resultRand <- cluster_similarity(resultado$cluster, resultadoEsperado, similarity = "rand", method = "independence")
+resultRand

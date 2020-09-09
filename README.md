@@ -1,5 +1,5 @@
-# Machine Learning: an introduction for Developers - Nerdzão Portugal.
-In this repository you have the two demonstrations I made in the Nerdzão Portugal [#13 LIVE](https://www.youtube.com/watch?v=ZXRnLtRPtIg) and [#14 LIVE](https://www.youtube.com/) to show an introduction to Machine Learning. 
+# Machine Learning: an introduction for Developers - Nerdzão Portugal
+In this repository you have the two demonstrations I made in the Nerdzão Portugal [#13 LIVE](https://www.youtube.com/watch?v=ZXRnLtRPtIg) and [#13.2 LIVE](https://www.youtube.com/watch?v=MXe3SJ83JDo) to show an introduction to Machine Learning. 
 
 ![Context Menu](image/Presentation.PNG)
 
