@@ -78,5 +78,5 @@ More defails in [Demo2](https://github.com/MackMendes/Nerdzao-MachineLearning-An
 * [ONNX](https://onnx.ai/)
 
 # Slides of the presentation 
-[Machine Learning: an introduction for Developers - Nerdzão Portugal](https://github.com/MackMendes/Nerdzao-MachineLearning-AnIntroductionForDeveloper)
+[Machine Learning: an introduction for Developers - Nerdzão Portugal](https://github.com/MackMendes/Nerdzao-MachineLearning-AnIntroductionForDeveloper/blob/master/presentation/Machine%20Learning%20-%20An%20introduction%20for%20Developers.pdf)
 
